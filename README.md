@@ -1,5 +1,5 @@
 - 👋 Hi, I’m muhammed 
-- 👀 I’m interested in Laravel And ardunio 
+- 👀 I’m interested in Laravel And arduino 
 - 🌱 I’m currently learning Ardunio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
